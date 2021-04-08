@@ -138,7 +138,7 @@ INSERT INTO participant VALUES
 (106, 'Christian', 'Schreiner', '49162555375', 101),
 (107, 'Harry', 'Kim', '49177555633', 101),
 (108, 'Jan', 'Nowak', '49151555824', 101),
-(109, 'Pablo', 'Garcia',  '49162555176', 101),
+(109, 'Pablo', 'Garcia',  '49162555176', 101),                                                                   
 (110, 'Melanie', 'Dreschler', '49151555527', 103),
 (111, 'Dieter', 'Durr',  '49178555311', 103),
 (112, 'Max', 'Mustermann', '49152555195', 104),
